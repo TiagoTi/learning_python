@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learning_python/static/css/main.19393e92.chunk.css",
+    "main.js": "/learning_python/static/js/main.d9cd7394.chunk.js",
+    "main.js.map": "/learning_python/static/js/main.d9cd7394.chunk.js.map",
+    "runtime~main.js": "/learning_python/static/js/runtime~main.15b09650.js",
+    "runtime~main.js.map": "/learning_python/static/js/runtime~main.15b09650.js.map",
+    "static/js/2.695728ef.chunk.js": "/learning_python/static/js/2.695728ef.chunk.js",
+    "static/js/2.695728ef.chunk.js.map": "/learning_python/static/js/2.695728ef.chunk.js.map",
+    "index.html": "/learning_python/index.html",
+    "precache-manifest.7ad6cd4de9c8016a6ea34ed03f597cd8.js": "/learning_python/precache-manifest.7ad6cd4de9c8016a6ea34ed03f597cd8.js",
+    "service-worker.js": "/learning_python/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/learning_python/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/learning_python/static/media/logo.5d5d9eef.svg"
+  }
+}
