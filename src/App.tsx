@@ -1,27 +1,44 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import { Header } from 'semantic-ui-react'
-
+import { Grid, Menu, Segment } from 'semantic-ui-react'
 
 const App: React.FC = () => {
+
+
   return (
-    <div className="App">
-      <Header as='h1'>First Header</Header>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+    <div>
+      <header>
+        <Header as='h1'>TestFirst.org</Header>
+        <Header as='h2'>the home of test-first teaching</Header>
       </header>
+      <div>
+        <Grid divided='vertically'>
+          <Grid.Row>
+            <Grid.Column>
+              <Menu fluid vertical tabular>
+                <Menu.Item name='bio' />
+                <Menu.Item name='bio' />
+              </Menu>
+            </Grid.Column>
+            <Grid.Column>
+              fasfsd
+            </Grid.Column>
+          </Grid.Row>
+        </Grid>
+      </div>
+      <footer>
+        <Grid>
+          <Grid.Row>
+            <Grid.Column stretched width={12}>
+              <Segment>
+                This is an stretched grid column. This segment will always match the
+                tab height
+          </Segment>
+            </Grid.Column>
+          </Grid.Row>
+        </Grid>
+      </footer>
     </div>
   );
 }
