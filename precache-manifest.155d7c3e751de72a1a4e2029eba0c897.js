@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "397a7afe3f0894ca1902e73c767f3789",
+    "revision": "3a5abafef30ac8de829c1a6e0da8d3aa",
     "url": "/learning_python/index.html"
   },
   {
-    "revision": "94245803ba277b0bc2c6",
+    "revision": "c25dd485a858251a9b9b",
     "url": "/learning_python/static/css/main.19393e92.chunk.css"
   },
   {
-    "revision": "8bad0fbaea8a5ad6c607",
-    "url": "/learning_python/static/js/2.695728ef.chunk.js"
+    "revision": "6b42a2172225af32b81b",
+    "url": "/learning_python/static/js/2.5dfbe798.chunk.js"
   },
   {
-    "revision": "94245803ba277b0bc2c6",
-    "url": "/learning_python/static/js/main.d9cd7394.chunk.js"
+    "revision": "c25dd485a858251a9b9b",
+    "url": "/learning_python/static/js/main.205c71e6.chunk.js"
   },
   {
     "revision": "77d6c502b57e6265b0f0",

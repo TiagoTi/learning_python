@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/learning_python/static/css/main.19393e92.chunk.css",
-    "main.js": "/learning_python/static/js/main.d9cd7394.chunk.js",
-    "main.js.map": "/learning_python/static/js/main.d9cd7394.chunk.js.map",
+    "main.js": "/learning_python/static/js/main.205c71e6.chunk.js",
+    "main.js.map": "/learning_python/static/js/main.205c71e6.chunk.js.map",
     "runtime~main.js": "/learning_python/static/js/runtime~main.15b09650.js",
     "runtime~main.js.map": "/learning_python/static/js/runtime~main.15b09650.js.map",
-    "static/js/2.695728ef.chunk.js": "/learning_python/static/js/2.695728ef.chunk.js",
-    "static/js/2.695728ef.chunk.js.map": "/learning_python/static/js/2.695728ef.chunk.js.map",
+    "static/js/2.5dfbe798.chunk.js": "/learning_python/static/js/2.5dfbe798.chunk.js",
+    "static/js/2.5dfbe798.chunk.js.map": "/learning_python/static/js/2.5dfbe798.chunk.js.map",
     "index.html": "/learning_python/index.html",
-    "precache-manifest.7ad6cd4de9c8016a6ea34ed03f597cd8.js": "/learning_python/precache-manifest.7ad6cd4de9c8016a6ea34ed03f597cd8.js",
+    "precache-manifest.155d7c3e751de72a1a4e2029eba0c897.js": "/learning_python/precache-manifest.155d7c3e751de72a1a4e2029eba0c897.js",
     "service-worker.js": "/learning_python/service-worker.js",
     "static/css/main.19393e92.chunk.css.map": "/learning_python/static/css/main.19393e92.chunk.css.map",
     "static/media/logo.svg": "/learning_python/static/media/logo.5d5d9eef.svg"
